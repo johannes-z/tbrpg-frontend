@@ -15,7 +15,7 @@
       </v-content>
     </main>
     <v-footer color="indigo" app>
-      <span class="white--text">&copy; Johannes Zwirchmayr 2017</span>
+      <span class="white--text">&copy; tbrpg 2017</span>
     </v-footer>
   </v-app>
 </template>
